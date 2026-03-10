@@ -2,7 +2,7 @@
 
 🎓 MSc in Business Analytics | 💻 Software Developer (C#, .NET, Python) | 📊 Data Enthusiast
 
-Welcome to my GitHub! I'm a Software Developer with over 3 years of professional experience, primarily in the Insurance domain within the BFSI sector. I recently moved to Ireland to pursue my Master's in Business Analytics at Maynooth University.
+Welcome to my GitHub! I'm a Software Developer with over 3 years of professional experience, primarily in the Insurance domain within the BFSI sector. I have completed my Master's in Business Analytics at Maynooth University.
 
 ## 👨‍💻 Tech Stack & Skills
 
@@ -34,7 +34,8 @@ _April 2021 – July 2024 (India)_
 
 ## 📜 Certifications
 
-- [x] Career Essentials in Business Analysis – Microsoft x LinkedIn (2024)
+- [x] Microsoft Certified: Power BI Data Analyst (PL-300)
+- [x] Career Essentials in Business Analysis – Microsoft x LinkedIn (2024) 
 
 ## 📈 Interests
 
